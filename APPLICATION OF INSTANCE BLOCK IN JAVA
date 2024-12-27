@@ -1,0 +1,15 @@
+//INPUT
+class A{
+   {
+    System.out.println("Default Constructor");
+  }
+  {
+    System.out.println("Learn Coding");
+  }
+  public static void main(String[] args){
+    A r=new A();
+  }
+}
+//OUTPUT
+Default Constructor
+Learn Coding
